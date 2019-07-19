@@ -8,7 +8,7 @@
 
 {{indexmenu_n>1}}
 
-**目录：**
+**目录**
 
-![skipfile=/^(account:identity\_verification:concepts)$/ nsort dsort
-msort](/indexmenu\>/account/identity_verification#1)
+{{indexmenu>:account:identity_verification#1 | nsort dsort msort}} 
+

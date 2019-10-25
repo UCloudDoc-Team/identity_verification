@@ -1,4 +1,4 @@
-{{indexmenu_n>0}}
+
 
 # 实名认证
 
@@ -6,5 +6,5 @@
 
 **目录**
 
-{{indexmenu>:account:identity_verification#1 | nsort dsort msort}} 
+ 
 

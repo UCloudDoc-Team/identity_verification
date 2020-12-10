@@ -1,4 +1,3 @@
-<div class="sidebar_title"> 实名认证</div>
 
 * [概览](/identity_verification/README)
 * [实名认证与权限](/identity_verification/permission)

@@ -8,7 +8,7 @@
 ## 定义
 - 人脸信息：本协议所称人脸是指为验证或识别您的身份而采集的人脸图像、视频，以及基于上述图像、视频提取的面部识别特征信息。
 - 人脸识别服务：指通过人脸比对、证件比对等方式，确认您身份的真实性或出于维护UCloud云服务帐号安全、风险防控等原因进行身份核验的服务。
-- 第三方人脸识别服务机构：指通过API（应用程序接口）、SDK（软件工具开发包）或APP（独立应用程序）方式向我们提供人脸识别技术服务的主体。我们接入的授权合作伙伴的详情请点击[查看](https://docs.ucloud.cn/app_legal_agreement/thirdpart_dependence)。
+- 第三方人脸识别服务机构：指通过API（应用程序接口）、SDK（软件工具开发包）或APP（独立应用程序）方式向我们提供人脸识别技术服务的主体。我们接入的授权合作伙伴的详情请点击[查看](https://docs.ucloud.cn/app_legal_agreement/thirdpart_dependence?id=%e4%ba%ba%e8%84%b8%e8%ae%a4%e8%af%81faceid-sdk)。
 <br>
 <br>
 

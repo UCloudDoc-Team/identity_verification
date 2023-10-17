@@ -2,13 +2,15 @@
 
 # 如何完成企业实名认证
 
-##### 1、进入实名认证页，点击“立即认证”
+##### 1、进入实名认证页，点击企业“立即认证”
 
-![](/images/step1.png)
+![image](https://github.com/UCloudDoc-Team/identity_verification/assets/107971405/41a1699b-eda2-4bd4-88f0-646bd6e65337)
 
-##### 2、选择认证类型为“企业认证”，并填写认证信息
 
-![](/images/step2.png)
+##### 2、填写认证信息
+
+![image](https://github.com/UCloudDoc-Team/identity_verification/assets/107971405/50ebcdc2-aaef-4e7d-b7d7-15a181d60f17)
+
 
 您提交的认证信息能保障您合规、安全地完成开票和提现：
 
@@ -20,7 +22,6 @@
 
 ##### 3、提交认证信息后，请耐心等待证照信息审核，一般2个工作日会完成审核。期间有疑问可查看帮助文档
 
-![](/images/等待审核.png)
 
 若认证信息都正确，我们会向您的银行账号/支付宝账号进行小额打款（0.01-0.99元之间）。
 

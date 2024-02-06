@@ -18,7 +18,6 @@ UCloud 提供以下三种认证方式，可灵活便捷完成企业认证
 ![image](https://github.com/UCloudDoc-Team/identity_verification/assets/107971405/b6633b82-4d23-4f7c-8e8f-c2e9bd55c548)
 
 
-
 注：
 - 认证过程中，打款的账户需银行卡对公转账，打款的验证金将自动充值至账户余额中。  
 - 打款可能需要一定手续费，具体以各银行收费标准为准。  

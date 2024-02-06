@@ -39,7 +39,7 @@ UCloud 提供以下三种认证方式，可灵活便捷完成企业认证
 ![image](https://github.com/UCloudDoc-Team/identity_verification/assets/107971405/f24ed54e-41dc-4430-a10f-06445f30cf56)   
 收到打款后，您需要在实名认证页面输入您帐号收到的打款金额  
 
-![image](https://github.com/UCloudDoc-Team/identity_verification/assets/107971405/01c5c521-cb46-45af-8df7-df430d3203dd)
+
 
 
 ##### 三、材料要求

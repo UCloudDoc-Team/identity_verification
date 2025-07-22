@@ -2,13 +2,13 @@
 
 ##### 一、进入实名认证页，点击企业“立即认证”
 
-![image](https://github.com/UCloudDoc-Team/identity_verification/assets/107971405/41a1699b-eda2-4bd4-88f0-646bd6e65337)
+![](/images/cs1.png)
 
 
 ##### 二、选择认证方式
 UCloud 提供以下三种认证方式，可灵活便捷完成企业认证
 
-![image](https://github.com/UCloudDoc-Team/identity_verification/assets/107971405/d74e50c2-0070-4e7f-8b42-51a8309de5c6)
+![](/images/cs2.png)
 
 注意：
 - 流程开始后请在10天内完成实名，否则本次认证将失效。
@@ -17,36 +17,37 @@ UCloud 提供以下三种认证方式，可灵活便捷完成企业认证
 ###### 1、UCloud充值认证
 认证流程：  
 提交认证信息后，请耐心等待证照信息审核，一般2个工作日会完成审核。
-![image](https://github.com/UCloudDoc-Team/identity_verification/assets/107971405/b6633b82-4d23-4f7c-8e8f-c2e9bd55c548)
+![](/images/cs3.png)
 
 
 注：
 - 认证过程中，打款的账户需银行卡对公转账，打款的验证金将自动充值至账户余额中。  
 - 打款可能需要一定手续费，具体以各银行收费标准为准。  
 - 单次打款认证流程有效期为7个自然日，超过7日需重新进行认证。  
-<img width="900" alt="image" src="https://github.com/UCloudDoc-Team/identity_verification/assets/107971405/10199ea4-4519-45a4-ada5-61215f871ef3">
+
+![](/images/cs4.png)
 
 ###### 2、法人人脸识别认证
 认证流程：   
 
-![image](https://github.com/UCloudDoc-Team/identity_verification/assets/107971405/f1ed7db2-c8b2-4add-bfbd-c31196543456)  
+![](/images/cs5.png) 
 提交认证信息后，请耐心等待证照信息审核，一般2个工作日会完成审核。
 
-![image](https://github.com/UCloudDoc-Team/identity_verification/assets/107971405/a030a3dc-f281-4788-aee8-722e006ce00c)
+![](/images/cs6.png)
 
 ###### 3、对公打款认证
 认证流程：  
 
-![](/images/企业认证第三种方式流程.jpg)
+![](/images/cs7.png)
 
 填写企业信息，提交认证信息后，请耐心等待信息审核，一般2个工作日会完成审核。
 
-![](/images/企业信息.jpg)
+![](/images/cs8.png)
 
 如果账号邮箱为企业登记邮箱，企业认证立即通过，无须打款验证。
 如果不满足上述条件，企业信息审核通过后，填写企业对公账号打款信息认证。
 
-![](/images/收款信息.jpg)
+![](/images/cs9.png)
 
 注意：
 - 请填写当前企业主体对应的收款信息，确保您的支付宝/银行卡账号户名与当前企业一致，且可以正常收款并查看收款信息。
@@ -54,7 +55,7 @@ UCloud 提供以下三种认证方式，可灵活便捷完成企业认证
 
 提交后我们将向您填写的账号打款，收到打款后，需要您回填收到的金额及数字验证码。
 
-![](/images/打款验证.jpg)
+![](/images/cs10.png)
 
 注意：
 - 请输入正确的打款金额，验证信息错误次数达上限（大于3次），为保障账号安全性，需要上传本次打款验证的收款回执进行人工审核。
@@ -71,5 +72,5 @@ UCloud 提供以下三种认证方式，可灵活便捷完成企业认证
 
 审核通过后，通过认证
 
-<img width="1282" alt="image" src="https://github.com/UCloudDoc-Team/identity_verification/assets/107971405/ec949abf-1402-4ff8-832c-a3da322c217d">
+![](/images/cs11.png)
 

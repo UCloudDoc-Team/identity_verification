@@ -12,6 +12,10 @@ UCloud 提供以下三种认证方式，可灵活便捷完成企业认证
 
 ![image](https://github.com/UCloudDoc-Team/identity_verification/assets/107971405/d74e50c2-0070-4e7f-8b42-51a8309de5c6)
 
+注意：
+- 流程开始后请在10天内完成实名，否则本次认证将失效。
+
+
 ###### 1、UCloud充值认证
 认证流程：  
 提交认证信息后，请耐心等待证照信息审核，一般2个工作日会完成审核。
@@ -36,10 +40,6 @@ UCloud 提供以下三种认证方式，可灵活便捷完成企业认证
 认证流程：  
 
 ![image](https://cdn.jsdelivr.net/gh/UCloudDoc-Team/identity_verification@2763c13a39b2e903fe31e73934130f5c21d2c102/images/%E4%BC%81%E4%B8%9A%E8%AE%A4%E8%AF%81%E7%AC%AC%E4%B8%89%E7%A7%8D%E6%96%B9%E5%BC%8F%E6%B5%81%E7%A8%8B.jpg)
-
-注意：
-- 流程开始后请在10天内完成实名，否则本次认证将失效。
-
 
 填写企业信息，提交认证信息后，请耐心等待信息审核，一般2个工作日会完成审核。
 

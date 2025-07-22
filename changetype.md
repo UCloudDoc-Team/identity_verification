@@ -4,4 +4,4 @@
 
 个人用户通过实名认证后可转为企业实名认证，您只需完成企业认证流程即可：
 
-![](/images/个人转企业.png)
+![](/images/changetypepic.png)

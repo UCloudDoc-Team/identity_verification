@@ -35,16 +35,16 @@ UCloud 提供以下三种认证方式，可灵活便捷完成企业认证
 ###### 3、对公打款认证
 认证流程：  
 
-![image](https://github.com/UCloudDoc-Team/identity_verification/blob/2763c13a39b2e903fe31e73934130f5c21d2c102/images/%E4%BC%81%E4%B8%9A%E8%AE%A4%E8%AF%81%E7%AC%AC%E4%B8%89%E7%A7%8D%E6%96%B9%E5%BC%8F%E6%B5%81%E7%A8%8B.jpg)
+![image](https://cdn.jsdelivr.net/gh/UCloudDoc-Team/identity_verification@2763c13a39b2e903fe31e73934130f5c21d2c102/images/%E4%BC%81%E4%B8%9A%E8%AE%A4%E8%AF%81%E7%AC%AC%E4%B8%89%E7%A7%8D%E6%96%B9%E5%BC%8F%E6%B5%81%E7%A8%8B.jpg)
 
 填写企业信息，提交认证信息后，请耐心等待信息审核，一般2个工作日会完成审核。
 
-![image](https://github.com/UCloudDoc-Team/identity_verification/blob/13c499f74e76a1ba73122574a607e99462431335/images/%E4%BC%81%E4%B8%9A%E4%BF%A1%E6%81%AF.jpg)
+![image](https://cdn.jsdelivr.net/gh/UCloudDoc-Team/identity_verification@13c499f74e76a1ba73122574a607e99462431335/images/%E4%BC%81%E4%B8%9A%E4%BF%A1%E6%81%AF.jpg)
 
 如果账号邮箱与天眼查企业邮箱一致，并且非公共邮箱，企业认证立即通过，无须打款验证。
 如果不满足上述条件，企业信息审核通过后还需填写收款信息。
 
-![image](https://github.com/UCloudDoc-Team/identity_verification/blob/2763c13a39b2e903fe31e73934130f5c21d2c102/images/%E6%94%B6%E6%AC%BE%E4%BF%A1%E6%81%AF.jpg)
+![image](https://cdn.jsdelivr.net/gh/UCloudDoc-Team/identity_verification@2763c13a39b2e903fe31e73934130f5c21d2c102/images/%E6%94%B6%E6%AC%BE%E4%BF%A1%E6%81%AF.jpg)
 
 注意：
 - 请填写当前企业主体对应的收款信息，确保您的支付宝/银行卡账号户名与当前企业一致，且可以正常收款并查看收款信息。
@@ -52,7 +52,7 @@ UCloud 提供以下三种认证方式，可灵活便捷完成企业认证
 
 提交后我们将向您填写的账号打款，收到打款后，需要您回填收到的金额及数字验证码。
 
-![image](https://github.com/UCloudDoc-Team/identity_verification/blob/2763c13a39b2e903fe31e73934130f5c21d2c102/images/%E6%89%93%E6%AC%BE%E9%AA%8C%E8%AF%81.jpg)
+![image](https://cdn.jsdelivr.net/gh/UCloudDoc-Team/identity_verification@2763c13a39b2e903fe31e73934130f5c21d2c102/images/%E6%89%93%E6%AC%BE%E9%AA%8C%E8%AF%81.jpg)
 
 注意：
 - 请输入正确的打款金额，验证信息错误次数达上限（大于3次），为保障账号安全性，需要上传本次打款验证的收款回执进行人工审核。
